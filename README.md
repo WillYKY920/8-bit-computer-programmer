@@ -15,6 +15,7 @@ Arduino-based programmer dedicated for Ben Eater's 8-bit computer using 74595 sh
 <p align="center">
    <img width="492" height="337" alt="arch" src="https://github.com/user-attachments/assets/c7fa59af-64d2-4c20-8c4a-61f19a1e94fe" />
 </p>
+
 > Info: [Build an 8-bit computer from scratch](https://eater.net/8bit)
 
 ## Usage
