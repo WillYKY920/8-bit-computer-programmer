@@ -19,7 +19,7 @@ Arduino-based programmer dedicated for Ben Eater's 8-bit computer using 74595 sh
 > Info: [Build an 8-bit computer from scratch](https://eater.net/8bit)
 
 ## Usage
-1. Wire the shift register output bits to the MAR (4-bit) and RAM (8-bit) inputs, and connect the write enable pin to the write enable input. You may refer to this simulation design.
+1. Build the programmer and wire the shift register output bits to the MAR (4-bit) and RAM (8-bit) inputs, and connect the write enable pin to the write enable input. You may refer to this simulation design.
 
 > Tinkercad link: [8-bit Computer Programmer](https://www.tinkercad.com/things/5tZBPNd5JHZ/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=fxdi010d1odySHfv4QmJEMUSlhq75w0uU7A7xYLqcXM)
 <img width="805" height="500" alt="programmer-tinker" src="https://github.com/user-attachments/assets/39bed15e-2138-4744-a8a0-2a25a89807d5" />
